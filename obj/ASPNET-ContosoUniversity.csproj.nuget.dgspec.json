@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {}
+    "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {
+    "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
+        "projectUniqueName": "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
         "projectName": "ASPNET-ContosoUniversity",
-        "projectPath": "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\irao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irao\\Desktop\\Mio\\GitHub Repositories\\ASPNET-ContosoUniversity\\obj\\",
+        "projectPath": "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
+        "outputPath": "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\irao\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -27,8 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://vcs:8081/nexus/service/local/nuget/ZooLogicNuget": {},
-          "http://vcs:8081/nexus/service/local/nuget/ZooLogicNugetRC": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.2": {
