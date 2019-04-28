@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {}
+    "D:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {}
   },
   "projects": {
-    "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {
+    "D:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
+        "projectUniqueName": "D:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
         "projectName": "ASPNET-ContosoUniversity",
-        "projectPath": "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
-        "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-        "outputPath": "G:\\GitHub Repositories\\ASPNET-ContosoUniversity\\obj\\",
+        "projectPath": "D:\\GitHub Repositories\\ASPNET-ContosoUniversity\\ASPNET-ContosoUniversity.csproj",
+        "packagesPath": "C:\\Users\\Ivan Rao\\.nuget\\packages\\",
+        "outputPath": "D:\\GitHub Repositories\\ASPNET-ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ivan Rao\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
